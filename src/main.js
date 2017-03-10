@@ -11,5 +11,5 @@ new Vue({
     components: {
         router: router
     },
-    render: function (h) { return h(App); }
+    render: function(h) { return h(App); }
 }).$mount('#app');
